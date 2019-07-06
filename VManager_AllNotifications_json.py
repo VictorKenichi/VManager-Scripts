@@ -49,12 +49,13 @@ def process_dataPacketReceived(mydata):
 
     data = {
         mydata.type: {
-            "Latency": mydata.latency
+            "Latency": mydata.latency,
+            "macAddress": mydata.mac_address
             }
         }
     json.dump(data, file)
 
-def process_dataPacketReceived(mydata):
+def process_apStateChanged(mydata):
     '''Process data notifications from dataPacketReceived'''
     global line_counter
         
@@ -63,7 +64,8 @@ def process_dataPacketReceived(mydata):
 
     data = {
         mydata.type: {
-            "Latency": mydata.latency
+            "state": mydata.state,
+            "type": mydata.type
             }
         }
     json.dump(data, file)
@@ -97,15 +99,21 @@ def process_notif(notif):
             'ipPacketReceived',
         ):
         # handle data notifications
-        #process_dataPacketReceived(notif)
-        pass
+        process_dataPacketReceived(notif)
+        
     
     elif notif.type in (
             'deviceHealthReport'
         ):
         # handle health reports
-        process_data(notif)
+        process_deviceHealthReport(notif)
 
+    elif notif.type in (
+            'apStateChanged'
+        ):
+        # handle apStateChanged reports
+        process_apStateChanged(notif)
+        
     elif notif.type in (
             'configChanged', 
             'configDeleted', 
