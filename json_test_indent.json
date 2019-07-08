@@ -1,0 +1,278 @@
+{
+    "dataPacketReceived": {
+        "Latency": 136264, 
+        "macAddress": "00-17-0D-00-00-38-06-F0", 
+        "sysTime": "2019-07-08 06:54:29.464000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MZAAYaVQAAB9ABEApv", 
+        "genNetTime": "2002-07-02 19:57:43.736000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 136496, 
+        "macAddress": "00-17-0D-00-00-38-05-E9", 
+        "sysTime": "2019-07-08 06:54:29.688000", 
+        "hops": 2, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MZAAKi5AAAdTABEAmE", 
+        "genNetTime": "2002-07-02 19:57:43.504000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 134778, 
+        "macAddress": "00-17-0D-00-00-38-04-25", 
+        "sysTime": "2019-07-08 06:54:29.921000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MaAA2XtQAAdTABEAnZ", 
+        "genNetTime": "2002-07-02 19:57:45.222000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 137750, 
+        "macAddress": "00-17-0D-00-00-31-D5-6A", 
+        "sysTime": "2019-07-08 06:54:30.044000", 
+        "hops": 6, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MXAA3yZgAAdTABEAlK", 
+        "genNetTime": "2002-07-02 19:57:42.250000", 
+        "destPort": 61625
+    }
+}{
+    "neighborHealthReport": {
+        "connectedNeighbors": [
+            null, 
+            null, 
+            null, 
+            null, 
+            null
+        ], 
+        "macAddress": "00-17-0D-00-00-31-CC-2E", 
+        "type": "neighborHealthReport", 
+        "sysTime": "2019-07-08 06:54:30.398000"
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 136344, 
+        "macAddress": "00-17-0D-00-00-31-D5-69", 
+        "sysTime": "2019-07-08 06:54:30.674000", 
+        "hops": 3, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MZAAT5RAAAdTABEAk2", 
+        "genNetTime": "2002-07-02 19:57:43.656000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 134270, 
+        "macAddress": "00-17-0D-00-00-38-06-F0", 
+        "sysTime": "2019-07-08 06:54:30.884000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MbAAYbXgAAB9ABEArF", 
+        "genNetTime": "2002-07-02 19:57:45.730000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 134067, 
+        "macAddress": "00-17-0D-00-00-38-04-3B", 
+        "sysTime": "2019-07-08 06:54:30.915000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MbAAkhxAAAdTABEAqE", 
+        "genNetTime": "2002-07-02 19:57:45.933000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 134459, 
+        "macAddress": "00-17-0D-00-00-31-C9-F1", 
+        "sysTime": "2019-07-08 06:54:31.022000", 
+        "hops": 3, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MbAAMxAQAAdTABEAlz", 
+        "genNetTime": "2002-07-02 19:57:45.541000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 133364, 
+        "macAddress": "00-17-0D-00-00-38-03-D9", 
+        "sysTime": "2019-07-08 06:54:31.393000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0McAASkpwAAB9ABEAov", 
+        "genNetTime": "2002-07-02 19:57:46.636000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 133045, 
+        "macAddress": "00-17-0D-00-00-38-00-63", 
+        "sysTime": "2019-07-08 06:54:31.857000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0McAAl/QQAAdTABEAla", 
+        "genNetTime": "2002-07-02 19:57:46.955000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 134705, 
+        "macAddress": "00-17-0D-00-00-31-CC-58", 
+        "sysTime": "2019-07-08 06:54:32.248000", 
+        "hops": 3, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MaAA6rTAAAdTABEAlf", 
+        "genNetTime": "2002-07-02 19:57:45.295000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 132334, 
+        "macAddress": "00-17-0D-00-00-38-03-87", 
+        "sysTime": "2019-07-08 06:54:32.488000", 
+        "hops": 2, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MdAAUXDQAAdTABEAoZ", 
+        "genNetTime": "2002-07-02 19:57:47.665000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 135807, 
+        "macAddress": "00-17-0D-00-00-31-D1-70", 
+        "sysTime": "2019-07-08 06:54:32.806000", 
+        "hops": 4, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MZAA0Z7QAAdTABEAmH", 
+        "genNetTime": "2002-07-02 19:57:44.193000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 132653, 
+        "macAddress": "00-17-0D-00-00-38-05-F1", 
+        "sysTime": "2019-07-08 06:54:32.951000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MdAAAsugAAdTABEAlE", 
+        "genNetTime": "2002-07-02 19:57:47.346000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 132269, 
+        "macAddress": "00-17-0D-00-00-38-06-F0", 
+        "sysTime": "2019-07-08 06:54:33.176000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MdAAYcJwAAB9ABEAqv", 
+        "genNetTime": "2002-07-02 19:57:47.731000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 131725, 
+        "macAddress": "00-17-0D-00-00-38-03-CA", 
+        "sysTime": "2019-07-08 06:54:33.241000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MdAA5jYgAAdTABEAnZ", 
+        "genNetTime": "2002-07-02 19:57:48.274000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 131363, 
+        "macAddress": "00-17-0D-00-00-38-03-D9", 
+        "sysTime": "2019-07-08 06:54:33.248000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MeAASlrgAAB9ABEApa", 
+        "genNetTime": "2002-07-02 19:57:48.637000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 131776, 
+        "macAddress": "00-17-0D-00-00-31-D5-20", 
+        "sysTime": "2019-07-08 06:54:33.423000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MdAA2WQwAAdTABEAmH", 
+        "genNetTime": "2002-07-02 19:57:48.224000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 131566, 
+        "macAddress": "00-17-0D-00-00-31-CA-03", 
+        "sysTime": "2019-07-08 06:54:33.770000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MeAAGDzwAAdTABEAmH", 
+        "genNetTime": "2002-07-02 19:57:48.434000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 131863, 
+        "macAddress": "00-17-0D-00-00-38-06-C9", 
+        "sysTime": "2019-07-08 06:54:34.068000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MdAAxKYQAAdTABEAoZ", 
+        "genNetTime": "2002-07-02 19:57:48.137000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 132001, 
+        "macAddress": "00-17-0D-00-00-31-C3-37", 
+        "sysTime": "2019-07-08 06:54:34.118000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MdAAokEwAAdTABEAmH", 
+        "genNetTime": "2002-07-02 19:57:47.999000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 130268, 
+        "macAddress": "00-17-0D-00-00-38-06-F0", 
+        "sysTime": "2019-07-08 06:54:34.600000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MfAAYdMQAAB9ABEApv", 
+        "genNetTime": "2002-07-02 19:57:49.732000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 129906, 
+        "macAddress": "00-17-0D-00-00-31-D4-7E", 
+        "sysTime": "2019-07-08 06:54:35.104000", 
+        "hops": 2, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MfAAuPZwAAdTABEAlf", 
+        "genNetTime": "2002-07-02 19:57:50.094000", 
+        "destPort": 61625
+    }
+}{
+    "dataPacketReceived": {
+        "Latency": 129362, 
+        "macAddress": "00-17-0D-00-00-38-03-D9", 
+        "sysTime": "2019-07-08 06:54:35.265000", 
+        "hops": 1, 
+        "type": "dataPacketReceived", 
+        "payload": "AAAFAP8BBQAAAABdI0MgAASmlQAAB9ABEAov", 
+        "genNetTime": "2002-07-02 19:57:50.638000", 
+        "destPort": 61625
+    }
+}
